@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.splash_screen_project">
    <application
-        android:label="splash_screen_project"
+        android:label="Splash Screen"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
